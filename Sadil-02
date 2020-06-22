@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   Sadil Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -77,12 +77,12 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m       / _ \  / _ \ | | | |_   _| | Updated✔ 
-\033[1;97m      / /_\ \/ /_\ \| |_| | | | | |    
-\033[1;92m      |  _  ||  _  ||  _  | | | | |    
-\033[1;97m      | | | || | | || | | |_| |_| |____
-\033[1;97m      \_| |_/\_| |_/\_| |_/\___/\_____/
+\033[1;97m      
+\033[1;92m     
+\033[1;97m       AYMAN SADIL
+\033[1;92m       
+\033[1;97m    
+\033[1;97m  Toh Kaise hain app log! 
                                                                
 
 """
@@ -90,22 +90,22 @@ print  """
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
-jalan("\033[1;96m•◈•  / ____|  __ \|  ____|  ____|  __ \_   _|")
-jalan("\033[1;97m•◈• | (___ | |__) | |__  | |__  | |  | || |  ")
-jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
-jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
-jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
+jalan("\033[1;96m•◈•  Contact me ")
+jalan("\033[1;96m•◈• Facebook:www.facebook.com/SADIL2020")
+jalan("\033[1;97m•◈• Instagram: Closser_404  ")
+jalan("\033[1;96m•◈• Whatsapp: 01708324346  ")
+jalan("\033[1;96m•◈•  Phone: 01708324346 ")
+jalan("\033[1;96m•◈• Thanks You ")
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to SADIL Creations ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mSADIL\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "sadil"
+CorrectPassword = "riyad"
 
 
 loop = 'true'
@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.facebook.com/SADIL2020')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Facebook.com/SADIL2020')
 
 def login():
 	os.system('clear')
@@ -325,7 +325,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('                    \033[1;97mAahil start cloning Wait...')
+	jalan('                    \033[1;97msadil start cloning Wait...')
 	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
